@@ -11,6 +11,11 @@ A command-line interface for interacting with Anthropic's Claude AI models, feat
 - Rich text formatting for improved readability
 - Easy session switching and creation
 
+- ## Screenshots
+![Screenshot 2025-01-08 at 16 48 10](https://github.com/user-attachments/assets/d16a6e11-6df1-4160-b424-9e19dc43309b)
+![Screenshot 2025-01-08 at 16 48 18](https://github.com/user-attachments/assets/c2e8776f-41fc-4bcf-857b-9da21927e65d)
+
+
 ## Prerequisites
 
 - Python 3.7+
